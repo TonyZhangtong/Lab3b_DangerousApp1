@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProjects\Lab3b_DangerousApp1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="46cb20e7f2506c0bf04c340d6e045a0bf37a32cb">
+        <dex dex="E:\AndroidStudioProjects\Lab3b_DangerousApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4fc6ac34cdae0b41090f5e9dc8366c5f1e8bc2ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AndroidStudioProjects\Lab3b_DangerousApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f0ab625e2aa242d01aa2cd3c4d39a3cf5323d1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProjects\Lab3b_DangerousApp1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="deb5e90f1c20cc33cb29c2d8b98a1748817a7647">
+        <dex dex="E:\AndroidStudioProjects\Lab3b_DangerousApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1d294132b687cdf6871fc2b9e921e2d54afda42f\classes.dex" />
+    </item>
+
+</items>
